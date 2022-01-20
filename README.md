@@ -1,4 +1,4 @@
-### Hi there, welcome to my github page 👋
+# Hi there, welcome to my github page 👋
 
 <!--
 **joanadecastro/joanadecastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# JoanaCastro
-Joana de Castro 
-## Joana Castro 👋
+## My email
+castrogros@gmail.com 
+## My social media
 <a href="https://www.linkedin.com/in/joanacastrowebdeveloper/" alt="LinkedIn" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/joanacastrowebdeveloper">
 </a>
