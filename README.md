@@ -1,12 +1,5 @@
 # Hello, I’m Joana, welcome to my github page 👋
 
- 
- I'm a designer and last year I decided to change my career and get to know the code world. At the moment, I'm passionate about code and design.
- I'm curious about the web and currently honing my skills and learning every day to become a better developer and person.
- I spend most of the time developing my first project that started in the flag front-end course and it ´s focused on html, css, javascript and in the future react.
- I love sharing, learning and experimenting with codes.
- I love challenges and problem solving, my main goal is to learn and create amazing and functional apps in a work environment that makes an impact!
-
 <!--
 **joanadecastro/joanadecastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
