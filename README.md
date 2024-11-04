@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Hi 👋!<br><br> I'm a frontend developer with experience in creating efficient, interactive and visually appealing user interfaces, specializing in React. With a keen eye for design and usability, combined with a knowledge of development best practices, I have the ability to turn ideas into scalable, high-performance digital products.<br>My expertise includes the use of JavaScript, HTML, CSS as well as libraries and tools from the React ecosystem, such as Redux, Context API and React Query, ensuring robust and responsive applications.<br>I continually seek to improve my skills and keep up to date with new trends and technologies, maintaining a proactive profile in solving complex problems and working collaboratively.<br><br>Feel free to reach out to me at anytime!</h5>
+<h4 align="left">Hi 👋!<br><br> I'm a frontend developer with experience in creating efficient, interactive and visually appealing user interfaces, specializing in React. With a keen eye for design and usability, combined with a knowledge of development best practices, I have the ability to turn ideas into scalable, high-performance digital products.<br>My expertise includes the use of JavaScript, HTML, CSS as well as libraries and tools from the React ecosystem, such as Redux, Context API and React Query, ensuring robust and responsive applications.<br>I continually seek to improve my skills and keep up to date with new trends and technologies, maintaining a proactive profile in solving complex problems and working collaboratively.<br><br>Feel free to reach out to me at anytime!</h4>
 
 ###
 
@@ -58,9 +58,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joanadecastro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joanadecastro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=joanadecastro&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joanadecastro&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false" height="250" alt="activity-graph graph"  />
 </div>
 
 ###
-
