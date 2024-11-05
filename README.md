@@ -1,14 +1,17 @@
-<p align="left">ABOUT ME</p>
+# Hi, welcome!!! 👋
+
+<p>
+ I'm a frontend developer with experience in creating efficient, interactive and visually appealing user interfaces, specializing in React. With a keen eye for design and usability, combined with a knowledge of development best practices, I have the ability to turn ideas into scalable, high-performance digital products.
+My expertise includes the use of JavaScript, HTML, CSS as well as libraries and tools from the React ecosystem, such as Redux, Context API and React Query, ensuring robust and responsive applications.
+I continually seek to improve my skills and keep up to date with new trends and technologies, maintaining a proactive profile in solving complex problems and working collaboratively.
+
+Feel free to reach out to me at anytime!
+</p>
+
+## 🛠️ TECHNOLOGIES
 
 ###
 
-<h4 align="left">Hi 👋!<br><br> I'm a frontend developer with experience in creating efficient, interactive and visually appealing user interfaces, specializing in React. With a keen eye for design and usability, combined with a knowledge of development best practices, I have the ability to turn ideas into scalable, high-performance digital products.<br>My expertise includes the use of JavaScript, HTML, CSS as well as libraries and tools from the React ecosystem, such as Redux, Context API and React Query, ensuring robust and responsive applications.<br>I continually seek to improve my skills and keep up to date with new trends and technologies, maintaining a proactive profile in solving complex problems and working collaboratively.<br><br>Feel free to reach out to me at anytime!</h4>
-
-###
-
-<p align="left">TECHS</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -36,7 +39,8 @@
 
 ###
 
-<p align="left">CONTACT ME</p>
+## 📧 CONTACT ME
+
 
 ###
 
@@ -51,7 +55,7 @@
 
 ###
 
-<p align="left">STATS</p>
+## ⭐ GITHUB STATS
 
 ###
 
