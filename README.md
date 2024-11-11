@@ -1,11 +1,18 @@
 # Hi, welcome!!! 👋
 
 <p>
- I'm a frontend developer with experience in creating efficient, interactive and visually appealing user interfaces, specializing in React. With a keen eye for design and usability, combined with a knowledge of development best practices, I have the ability to turn ideas into scalable, high-performance digital products.
-My expertise includes the use of JavaScript, HTML, CSS as well as libraries and tools from the React ecosystem, such as Redux, Context API and React Query, ensuring robust and responsive applications.
-I continually seek to improve my skills and keep up to date with new trends and technologies, maintaining a proactive profile in solving complex problems and working collaboratively.
+Frontend Developer | Specialist in React
 
-Feel free to reach out to me at anytime!
+As a frontend developer skilled in creating efficient, engaging, and visually compelling user interfaces, I specialize in building high-performance digital products using the React ecosystem. My work combines a keen design sensibility with a solid understanding of development best practices to deliver seamless, scalable applications.
+
+Key Skills and Expertise:
+- React and Frontend Technologies: Proficient in JavaScript, HTML, and CSS, along with extensive experience in core React tools and libraries, including Redux, Context API, and React Query. My approach ensures robust, responsive, and maintainable applications.
+ 
+- User-Centric Design and Usability: With a sharp eye for intuitive design, I focus on creating user-friendly interfaces that enhance the end-user experience.
+ 
+- Problem-Solving and Continuous Learning: Committed to ongoing improvement, I stay updated on the latest industry trends and technologies. I approach complex challenges with a proactive mindset and excel in collaborative, fast-paced environments.
+ 
+I’m passionate about turning ideas into impactful digital experiences and am always open to connecting with like-minded professionals. Feel free to reach out anytime!
 </p>
 
 ## 🛠️ TECHNOLOGIES
